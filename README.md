@@ -23,4 +23,4 @@ This kind of reactive audio system is commonly used in AAA games to reinforce pl
 - Demonstrate technical sound design skills by building a fully functional audio-reactive system.  
 - Provide a flexible framework that can be implemented in other projects.  
 
-✍️ *Stay tuned! This repository will be updated with design diagrams, prototype videos, and source files as development advances.*  
+*Stay tuned! This repository will be updated with design diagrams, prototype videos, and source files as development advances.*  
