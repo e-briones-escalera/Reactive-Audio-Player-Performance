@@ -1,4 +1,4 @@
-## Reactive-Audio-Player-Performance
+## Reactive Audio Player Performance
 
 This project is an experimental system designed to dynamically adapt the game's music and audio layers based on the player's performance. The idea is to make gameplay feel more immersive by rewarding accuracy, progress, or success with sound variations.  
 
